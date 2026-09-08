@@ -1,7 +1,5 @@
 <div align="center">
 
-<!-- HEADER BANNER ANIMATION -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=11,15,24,30&height=230&section=header&text=Arkhis%20M'hammed&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=%E2%9A%A1%20AI%20%26%20Industrial%20Systems%20Engineer%20%7C%20Autonomous%20Agents%20%26%20RAG&descAlignY=62&descAlign=50" width="100%" alt="Header Banner" />
 
 <!-- DYNAMIC TYPING SVG -->
 <a href="https://github.com/Arkspace659">
