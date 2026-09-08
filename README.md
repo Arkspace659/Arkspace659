@@ -158,7 +158,7 @@ arkhis:
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
   &nbsp;
-  <a href="https://linkedin.com/in/arkhis-mhammed](https://www.linkedin.com/in/mhammed-arkhis/">
+  <a href="https://www.linkedin.com/in/mhammed-arkhis/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   &nbsp;
