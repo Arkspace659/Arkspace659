@@ -132,10 +132,6 @@ arkhis:
 <div align="center">
   <table border="0" style="border: none;">
     <tr>
-      <td align="center" style="border: none;">
-      </td>
-      <td align="center" style="border: none;">
-      </td>
     </tr>
     <tr>
       <td colspan="2" align="center" style="border: none;">
