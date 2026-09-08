@@ -16,6 +16,9 @@
   <a href="https://github.com/Arkspace659?tab=repositories">
     <img src="https://img.shields.io/badge/Stack-Python%20%7C%20TS%20%7C%20FastAPI-6366f1?style=for-the-badge&logo=fastapi&logoColor=white&labelColor=0d1117" alt="Stack Badge"/>
   </a>
+    <a href="https://github.com/Arkspace659">
+    <img src="https://komarev.com/ghpvc/?username=Arkspace659&color=38bdf8&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+  </a>
   <a href="mailto:arkhis.mhammed@example.com">
     <img src="https://img.shields.io/badge/Status-Open%20to%20Collaborations-10b981?style=for-the-badge&logo=githubsponsors&logoColor=white&labelColor=0d1117" alt="Status Badge"/>
   </a>
