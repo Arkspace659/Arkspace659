@@ -149,26 +149,6 @@ arkhis:
 
 ---
 
-### 📈 Interactive Contribution Pulse
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Arkspace659&theme=tokyo-night&hide_border=true&area=true&color=38bdf8" width="95%" alt="Activity Graph" />
-</div>
-
----
-
-### 🐍 Contribution Activity Snake
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Arkspace659/Arkspace659/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Arkspace659/Arkspace659/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake" src="https://raw.githubusercontent.com/Arkspace659/Arkspace659/output/github-contribution-grid-snake-dark.svg">
-  </picture>
-</div>
-
----
-
 ### 🤝 Let's Connect & Collaborate
 
 <div align="center">
@@ -178,7 +158,7 @@ arkhis:
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
   &nbsp;
-  <a href="https://linkedin.com/in/arkhis-mhammed">
+  <a href="https://linkedin.com/in/arkhis-mhammed](https://www.linkedin.com/in/mhammed-arkhis/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   &nbsp;
